@@ -113,6 +113,10 @@ with tf.Session() as sess:
 其中我们这里用到的代价函数是均方差公式，公式如下
 ![](_v_images/1539842499_4895.gif)
 
-$$J(\theta_0,\theta_1)=\frac{1}{2m}\sum_{i=1}^{m}(y_\alpha^{(i)},y^{(i)})^2=\frac{1}{2m}*(y_\alpha^{(1)}-y^{(1)})^2*(y_\alpha^{(2)}-y^{(2)})^2\cdots(y_\alpha^{(m)}-y^{(m)})^2$$
+```mathjax
+$$
+J(\theta_0,\theta_1)=\frac{1}{2m}\sum_{i=1}^{m}(y_\alpha^{(i)},y^{(i)})^2=\frac{1}{2m}*(y_\alpha^{(1)}-y^{(1)})^2*(y_\alpha^{(2)}-y^{(2)})^2\cdots(y_\alpha^{(m)}-y^{(m)})^2
+$$
+```
 
 
