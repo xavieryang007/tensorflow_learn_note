@@ -1,3 +1,4 @@
+vnote_backup_file_826537664 E:/code/tensorflow_learn_note/1/1-0/1-0.md
 # 基础知识   
 学习tensorflow需要了解得架构，虽然学习tensorflow优先推荐python，但是并不是通过python进行计算得，而是通过tensorflow的API传入数据，在tensorflow内部计算，因而和学习编程语言不同，学习tensorflow，更又一定得抽象性。    
 
